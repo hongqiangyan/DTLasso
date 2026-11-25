@@ -1,0 +1,12 @@
+# The repository contains code and data only.
+# results/ and output/ are written by running the code.
+simulation/results/
+cmr/results/
+rz/results/
+simulation/output/
+cmr/output/
+rz/output/
+results.zip
+.DS_Store
+.Rhistory
+.Rapp.history
